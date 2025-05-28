@@ -22,7 +22,6 @@ $email = "Manahil@gmail.com";
 
 @if($username = "Manahil")
 <h3>the condition is true</h3>
-
 @else
 <h3>the condition is false</h3>
 @endif
